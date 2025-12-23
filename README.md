@@ -17,7 +17,7 @@ This project was developed to practice **full-stack web development** and unders
 ---
 
 ## 🗄️ Database
-- Database Name: `clothing_management`
+- Database Name: `clothing_shop`
 - Uses MySQL for storing clothing details and management data
 
 ---
